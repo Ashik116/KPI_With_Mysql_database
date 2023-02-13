@@ -1,0 +1,4 @@
+#Mon Jan 30 15:29:54 BDT 2023
+base.0=H\:\\bacup project\\KPIRegnum-new\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

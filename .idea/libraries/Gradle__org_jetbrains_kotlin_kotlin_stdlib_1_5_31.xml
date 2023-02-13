@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.31" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/6628d61d0f5603568e72d2d5915d2c034b4f1c55/kotlin-stdlib-1.5.31.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/6628d61d0f5603568e72d2d5915d2c034b4f1c55/kotlin-stdlib.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/6628d61d0f5603568e72d2d5915d2c034b4f1c55/kotlin-reflect.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/6628d61d0f5603568e72d2d5915d2c034b4f1c55/kotlin-test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
